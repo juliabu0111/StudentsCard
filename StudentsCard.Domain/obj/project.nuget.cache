@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "tBT5NdyRj4hlp6sen202Em9wDReOF3N1RRV9J6dINcxPgcVzFUab9g+qeqL1Qcmp1XP6x4R5hV6NEVFwlzVwug==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Юлія\\source\\repos\\StudentsCard\\StudentsCard.Domain\\StudentsCard.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Юлія\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
